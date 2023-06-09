@@ -2,13 +2,14 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Needforock2?style=social)](https://github.com/Needforock2)
 
-Hello there! I'm [Your Name], a passionate software developer with a love for coding and building innovative projects. Welcome to my GitHub profile, where you can explore some of my main projects. Feel free to browse through the repositories and check out the code, documentation, and demos.
+Hello there! I'm Daniel Machado, a passionate software developer with a year+ of experience developing small websites and applications. I am passionate to solve problems with logics which makes me see things like algorithms. That's why i love to code and create awesome solutions to daily life.
+ Welcome to my GitHub profile, where you can take a look to my job, you can look at the codes, clone-fork them. If you like my job give me star ⭐️ 
 
 ## Profile Visitors
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=Needforock2.Needforock2)
 
-## Projects
+## Projects: here you can see my main projects as an evolution of my developer carreer.
 
 ### 🔥 [Sara Cabrera](https://github.com/Needforock2/Proyecto-Final-DanielMachado)
 Profesional services web page completely responsive. </br>
