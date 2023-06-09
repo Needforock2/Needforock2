@@ -11,12 +11,12 @@ Hello there! I'm [Your Name], a passionate software developer with a love for co
 ## Projects
 
 ### 🔥 [Sara Cabrera](https://github.com/Needforock2/Proyecto-Final-DanielMachado)
-Profesional services web page completely responsive. 
+Profesional services web page completely responsive. </br>
 ![Finished](https://img.shields.io/badge/Status-Finished-00C853?style=for-the-badge)
 
 Visit the deploy: https://poetic-meerkat-6b2e69.netlify.app/
 
-Technologies: 
+Technologies: </br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) </br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) </br>
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge) </br>
@@ -25,29 +25,29 @@ Technologies:
 
 
 ### 🔥 [Business Electronics](https://priceless-booth-f5d813.netlify.app/)
-Profesional site for small company. Completely responsive
+Profesional site for small company. Completely responsive </br>
 ![Finished](https://img.shields.io/badge/Status-Finished-00C853?style=for-the-badge)
 
-Technologies: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+Technologies: </br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)</br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)</br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)</br>
 
 ### 🔥🔥 [Quotation Simulator](https://github.com/Needforock2/JS-Entrega-Final-Daniel-Machado)
 
 Small project in Vanilla Javascript. It works like a small piece of a big CRM platform which was the original idea.
 You can create quotations based on a pre-created list of products.
 Once Created the quotation you can edit or delete it.
-It saves all the data in an API (Json Storage)
+It saves all the data in an API (Json Storage)</br>
 ![Finished](https://img.shields.io/badge/Status-Finished-00C853?style=for-the-badge)
 
 Check the Deploy: https://venerable-sfogliatella-7fed60.netlify.app/
 
-Technologies: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)    
+Technologies: </br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)</br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)</br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)</br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)    </br>
 
 ### 🔥🔥🔥 [Cachupines.cl](https://github.com/Needforock2/react-preentrega2-daniel-machado)
 
@@ -57,12 +57,12 @@ TODO: add a feature to process the payment
 
 Deploy: https://lovely-sprite-e733c3.netlify.app/
 
-Technologies: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+Technologies: </br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)</br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)</br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)</br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge) </br>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)</br>
 ![Google Firebase](https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 ## Contributions and Collaborations
