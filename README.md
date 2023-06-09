@@ -17,10 +17,10 @@ Profesional services web page completely responsive.
 Visit the deploy: https://poetic-meerkat-6b2e69.netlify.app/
 
 Technologies: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) </br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) </br>
+![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge) </br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) </br>
 
 
 
