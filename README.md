@@ -2,8 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Needforock2?style=social)](https://github.com/Needforock2)
 
-Hello there! I'm Daniel Machado, a passionate software developer with a year+ of experience developing small websites and applications. I am passionate to solve problems with logics which makes me see things like algorithms. That's why i love to code and create awesome solutions to daily life.
- Welcome to my GitHub profile, where you can take a look to my job, you can look at the codes, clone-fork them. If you like my job give me star ⭐️ 
+Hello there! I'm Daniel Machado, Electronics Engineer with more than 14 years of experience programming hardware and software. 
+I have received the certification of Front-End Javascript React Developer and soon I will also achieve the Back End Developer badge to complete the MERN Full Stack Developer.
+I am passionate to solve problems with logics which makes me see things like algorithms. That's why I love to code and create awesome solutions to daily life.
+Welcome to my GitHub profile, where you can take a look to my job, you can look at the codes and clone-fork them. If you like my job give me star ⭐️ 
 
 ## Profile Visitors
 
