@@ -72,7 +72,7 @@ Technologies: </br>
 ### 🔥🔥🔥 [SUNKISS.COM](https://github.com/Needforock2/Sunkiss)
 Deploy:  https://c11-35-m-next.vercel.app/
 
-In this project I joined as part of the Front-End team and I was in charge of the development of the Shopping Cart and Checkout logics as well as the Product Details, the Navbar and Product Cards components.
+In this project I joined as part of the Front-End team and I was in charge of the development of the Shopping Cart and Checkout logics as well as the Product Details, the Navbar and Product Cards components, all of this based on the design given by the wonderful UX/UI team. All components created are fully responsive and their awesome styles are thanks to Chakra UI.
 As all of the backend members withdrew from the project, I had to take over the authentication and database configuration tasks (with Firebase) as well as creating the Login and SignUp components.
 
 In this project I learned a lot of new Technologies:
